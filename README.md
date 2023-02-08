@@ -55,7 +55,7 @@ npm start
 3. Run the backend:
 
 ```sh
-cd ../backend
+cd backend
 node server
 ```
 
