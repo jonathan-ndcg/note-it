@@ -1,0 +1,18 @@
+.editNoteBody {
+    resize: none;
+    line-height: 24px;
+}
+
+.viewNoteTitle {
+    min-height: 24px;
+}
+
+.viewNoteBody {
+    white-space: pre-wrap;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-height: 120px;
+}
